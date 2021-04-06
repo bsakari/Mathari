@@ -1,0 +1,6 @@
+{
+    "require": {
+        "safaricom/mpesa": "^1.0",
+        "symfony/dotenv": "^4.3"
+    }
+}

@@ -1,0 +1,25 @@
+.pay{
+    height: 99vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pay_main_body{
+    background-image: url("../../img/brain.jpg");
+    background-size: cover;
+}
+
+.modal_gallery_images{
+    height: 65vh;
+    width: 100%;
+}
+
+.be_part_of_our_story{
+    color: #ffffff;
+}
+
+.be_part_of_our_story:hover{
+    text-decoration: none;
+}
